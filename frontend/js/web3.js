@@ -1,7 +1,7 @@
 console.log("web3.js loaded");
 console.log("ethers =", typeof ethers);
 
-const CONTRACT_ADDRESS = "0x17bb503a6E01dE45d71013173EEF1F82BEE3c91B";
+const CONTRACT_ADDRESS = "NEW_DEPLOYED_ADDRESS";
 
 let provider;
 let signer;
